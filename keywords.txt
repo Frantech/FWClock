@@ -1,0 +1,16 @@
+FWClock	KEYWORD1
+adjustClockSecondsToZero	KEYWORD2
+adjustClockUpByOneMinute	KEYWORD2
+bcdToDec	KEYWORD2
+binToStr	KEYWORD2
+decToBcd	KEYWORD2
+displayTimeToConsole	KEYWORD2
+getFlag	KEYWORD2
+getTime	KEYWORD2
+isItTime	KEYWORD2
+readDS3231Time	KEYWORD2
+readADateTimeField	KEYWORD2
+setFlag	KEYWORD2
+setTime	KEYWORD2
+setStrTime	KEYWORD2
+
